@@ -5,7 +5,7 @@
     <ContentPage.Content>
         <ScrollView Orientation="Both">
             <StackLayout WidthRequest="1000" HeightRequest="1000" BackgroundColor="#CCCCCC">
-                <Label Text="Welcome to Xamarin.Forms!"
+                <Label Text="Welcome to Xamarin.Forms! Alteração Branch"
                 VerticalOptions="CenterAndExpand" 
                 HorizontalOptions="CenterAndExpand" />
             </StackLayout>
